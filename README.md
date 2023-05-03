@@ -1,13 +1,8 @@
 #  Oi eu sou Alberto
 
-[![ Github Badge ](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/ peguimasid )](https:// github.com/ peguimasid )
-[![ Github Badge ](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/ gui-loko )](https: //github.com/ gui-loko )
-[![ Linkedin Badge ](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilhermo-masid- 494677b8/)](https://www.linkedin.com/in/guilhermo-masid-494677b8/)
-[![ Selo do Youtube ](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCTF5MfUsa- 9dFCOHFTA9xzw)](https://www.youtube.com/channel/UCTF5MfUsa-9dFCOHFTA9xzw)
-
 ##  Sobre mim:
 
-Sou um Desenvolvedor Fullstack : smile :
+Sou um estudante de tecnoligia, querendo se adentrar na area de teste de software e QA.
 Amo codificar e criar coisas novas, gosto muito de descobrir novas tecnologias e mergulhar fundo na resolução de problemas.
 ##  Minhas especialidades:
 ###  Idiomas: <img src="https://img.shields.io/badge/Python-3776AB?&style=for-the-badge&logo=python&logoColor=white"/>
