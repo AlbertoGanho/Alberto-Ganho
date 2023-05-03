@@ -3,7 +3,7 @@
 ##  Sobre mim:
 
 Sou um estudante de tecnoligia, querendo se adentrar na area de teste de software e QA.
-Amo codificar e criar coisas novas, gosto muito de descobrir novas tecnologias e mergulhar fundo na resolução de problemas.
+Adoro tudo que esta ligado a tecnologia, e o quao longe ela pode nos levar.
 ##  Minhas especialidades:
 ###  Idiomas: <img src="https://img.shields.io/badge/Python-3776AB?&style=for-the-badge&logo=python&logoColor=white"/>
 ###  Banco de dados: <img src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
