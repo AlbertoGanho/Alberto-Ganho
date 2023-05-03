@@ -9,4 +9,3 @@ Sou um estudante de tecnoligia, querendo se adentrar na area de teste de softwar
 
 
 ##  O que eu não souber, me de alguns dias. 
-
